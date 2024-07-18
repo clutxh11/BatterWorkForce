@@ -1,0 +1,3 @@
+../Drivers/kalmanSocDriver/BatterySOCEstimation.c:140:15:look2_binlx	112	static
+../Drivers/kalmanSocDriver/BatterySOCEstimation.c:242:6:BatterySOCEstimation_step	288	static
+../Drivers/kalmanSocDriver/BatterySOCEstimation.c:508:6:BatterySOCEstimation_initialize	4	static
